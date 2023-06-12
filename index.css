@@ -5,13 +5,14 @@
 }
 .header {
     margin-top: 32px;
-    justify-content: center;
-    text-align: center;
     background-image: url(20230401_115917.jpg);
-    background-size: 500px;
+    background-size: cover;
     height: 500px;
-    width: 500px;
-    margin-left: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
 }
 .div1 {
     margin-top: 10px;
