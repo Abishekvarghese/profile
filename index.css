@@ -1,0 +1,40 @@
+.head {
+    background-color:brown;
+    height: 30px;
+    color: aliceblue;
+}
+.header {
+    margin-top: 32px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(20230401_115917.jpg);
+    background-size: 500px;
+    height: 500px;
+    width: 500px;
+    margin-left: 200px;
+}
+.div1 {
+    margin-top: 10px;
+    background-color: brown;
+    size: 5px;
+    color: brown;
+    font-size: 1px;
+}
+.about {
+    text-align: center;
+    
+}
+.div {
+    margin-top: 10px;
+    background-color: brown;
+    size: 5px;
+    color: brown;
+    font-size: 1px;
+}
+.con {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+}
